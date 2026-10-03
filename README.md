@@ -1,4 +1,4 @@
-# Mis Notas Rápidas (Tkinter)
+# Notas Rápidas
 
 Aplicación de escritorio para la gestión de notas desarrollada en Python usando Tkinter y ttk.
 
